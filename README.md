@@ -1,2 +1,1 @@
-# snowflake-machine-learning
-Snowflake machine learning demos
+# Snowflake machine learning, AI, and LLM demos
